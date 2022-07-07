@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+DICOM+Anonymizer+v0.7.1.exe filter=lfs diff=lfs merge=lfs -text
+FigmaSetup.exe filter=lfs diff=lfs merge=lfs -text
